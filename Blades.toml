@@ -1,0 +1,11 @@
+title = "Blades"
+description = ""
+keywords = ""
+image = ""
+theme = ""
+
+[author]
+name = "Maros Grego"
+
+[extra]
+repository = "https://github.com/grego/blades"
